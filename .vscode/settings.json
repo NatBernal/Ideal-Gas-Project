@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib\\javafx-sdk-22.0.1\\lib\\javafx.swing.jar",
+        "lib\\javafx-sdk-22.0.1\\lib\\javafx.controls.jar",
+        "lib\\javafx-sdk-22.0.1\\lib\\javafx.base.jar",
+        "lib\\javafx-sdk-22.0.1\\lib\\javafx-swt.jar",
+        "lib\\javafx-sdk-22.0.1\\lib\\javafx.media.jar",
+        "lib\\javafx-sdk-22.0.1\\lib\\javafx.fxml.jar",
+        "lib\\javafx-sdk-22.0.1\\lib\\javafx.graphics.jar",
+        "lib\\javafx-sdk-22.0.1\\lib\\javafx.web.jar"
+    ],
+    
+    "java.jdt.ls.vmargs": "--module-path=lib/javafx-sdk-22.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+}
