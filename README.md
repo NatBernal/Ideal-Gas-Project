@@ -14,3 +14,4 @@ Este proyecto es un simulador de gas ideal que visualiza partículas en movimien
 
 - Java 21 o superior.
 - JavaFX.
+- Se recomienda ejecutar desde Visual Studio Code.
